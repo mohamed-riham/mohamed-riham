@@ -22,6 +22,7 @@
 I’ve worked on projects like AI voice assistants, face recognition systems, banking chatbots, and assistive devices for visually impaired users. Every project helps me learn, explore, and improve a little more.
 
 Right now, I’m focused on learning new data science concepts and experimenting with game development whenever I can. For me, it’s all about growing, creating, and enjoying the process of learning.
+
 ---
 
 ## 🧰 Skills & Tools

@@ -84,6 +84,7 @@ Right now, I’m focused on learning new data science concepts and experimenting
 - LinkedIn: https://linkedin.com/in/mohamedriham  
 - Portfolio / Profile: https://axisacademy.edu.lk/mohamed-riham/  
 - Medium: https://medium.com/@mohamed-riham
+- Dev.to: https://dev.to/mohamed-riham
 
 ---
 
